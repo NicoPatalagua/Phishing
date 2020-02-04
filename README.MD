@@ -13,6 +13,7 @@ instead of reaching the original, they are stored on your server._
 ### 1. Create the html of facebook: 📋
 
  We go to the Facebook page.
+ 
   ![Image](images/facebook.png)
   
  In any blank space click with the button right mouse to get the context menu and select the option _“See source code of the page"_.
@@ -21,9 +22,25 @@ instead of reaching the original, they are stored on your server._
  
 ### 2. Text editor: 📋
 We copy the code and add it to a text editor file in my case visual studio code, and save with the name “index.html"
+
 ![Image](images/index.png)
 
-### 2. Action: 📋
+### 2.1 Action: 📋
 In the text editor, let's look for the _action =_ statement, if you use visual studio you must press :```ctrl+f```.
 
 ![Image](images/action.png)
+
+---
+
+## Author ✒️
+
+* **Nico Patalagua** - *Repository* - [Github](https://github.com/NicoPatalagua)
+
+## If you liked this repostory 🎁
+* Share it 📢
+* Invite me a beer 🍺  
+* Improve it 🤓.
+
+---
+## By 📌
+[NicoPatalagua](https://www.instagram.com/nicopatalagua/) 😎
