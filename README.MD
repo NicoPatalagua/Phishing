@@ -30,7 +30,66 @@ In the text editor, let's look for the _action =_ statement, if you use visual s
 
 ![Image](images/action.png)
 
----
+
+### 2.1.1 Action: 📋
+Replace the indexxed link in the action method with: ```script.php```.
+
+![Image](images/replace.png)
+
+### 3. Script: 📋
+Now we are going to create the script, programmed in php. This script generates a ```log.txt``` file with the data collected.
+
+
+![Image](images/script.png)
+
+### 4. Web Hosting: 📋
+To generate a hosting and domain for our practice, we will use [000webhost](https://co.000webhost.com/) from which we will create a free website.
+ 
+![Image](images/000webHosting.png)
+
+
+### 4.1 New site: 📋
+Configure the requested data of our website.
+ 
+![Image](images/nuevoSitio.png)
+
+
+### 4.1. 1 Upload files : 📋
+We load the scripts that we have programmed previously, that is the ```index.html``` and the ```script.php```.  
+![Image](archivos.png)
+
+Upload the files:
+
+![Image](images/upload.png)
+
+Verify that the files have been uploaded.
+
+![Image](images/archivos1.png)
+
+### 5. Page  : 📋
+We share the url of the page for users to enter.
+
+![Image](images/url.png)
+
+### 5.1 User: 📋
+Followed by which will be redirected to the facebook homepage.
+
+![Image](images/redirect.png)
+
+### 6. Data generated: 📋
+On our host site, a file with the name ```log.txt``` was created.
+
+![Image](images/log.png)
+
+### 6.1 Verify: 📋
+We can verify the generated file.
+
+![Image](images/data.png)
+
+And here we have the user's credentials.
+
+![Image](images/data1.png)
+
 
 ## Author ✒️
 
